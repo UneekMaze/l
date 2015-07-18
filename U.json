@@ -1,1 +1,42 @@
-
+{
+    "room": "UneekCraft",
+    "author": "UneekMaze",
+    "css": "https://rawgit.com/UneekMaze/SHITPICKDICKKICKSHITCRAPUNEEK/master/css.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#C6253C",
+        "ambassador": "#84B423",
+        "host": "#FF0000",
+        "cohost": "#FF0000",
+        "manager": "#FF0000",
+        "bouncer": "#FF0000",
+        "rdj": "#5DB4FF",
+        "subscriber": "#FFCE00",
+        "friend": "#09F0A4",
+        "user": "#BD00FF"
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/15.png",
+        "playback": "http://i.imgur.com/a8aqA4A.png?1",
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/d20Bq3Z.png",
+        "cohost": "http://i.imgur.com/d20Bq3Z.png",
+        "manager": "http://i.imgur.com/SNdekaj.png",
+        "bouncer": "http://i.imgur.com/VVppEps.png",
+        "rdj": "http://i.imgur.com/mcT2htN.png",
+        "subscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
